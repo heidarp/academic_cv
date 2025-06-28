@@ -1,0 +1,568 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.21)  21 FEB 2022 19:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**references.tex
+(./references.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.1 \bf
+        {\mtf References  } \hrulefill \\ \\ \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 \bf {\mtf
+              References  } \hrulefill \\ \\ \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \bf {\mtf R
+               eferences  } \hrulefill \\ \\ \mdseries
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+
+Overfull \hbox (21.55562pt too wide) in paragraph at lines 2--3
+[]\OT1/cmr/m/n/10 Prof.
+ []
+
+
+Overfull \hbox (17.50003pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Ma-
+ []
+
+
+Overfull \hbox (11.38893pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 jid
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Ah-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 madi
+ []
+
+
+Overfull \hbox (21.58336pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 (Dis-
+ []
+
+
+Overfull \hbox (15.63889pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ser-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (16.75003pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 sor) 
+ []
+
+
+Overfull \hbox (41.27785pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Electrical
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.88893pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Com-
+ []
+
+
+Overfull \hbox (23.36116pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 puter
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 En-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (21.69446pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 neer-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (31.38896pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 (ECE),
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (27.50006pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Wind-
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 sor 
+ []
+
+
+Overfull \hbox (19.16669pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Tel.:
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 519-
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 253-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 3000
+ []
+
+
+Overfull \hbox (16.38893pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ext.
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 5076,
+ []
+
+
+Overfull \hbox (28.4723pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 Email:
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 ah-
+ []
+
+
+Overfull \hbox (80.91685pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/10 madi@uwindsor.ca 
+ []
+
+
+Overfull \hbox (14.33336pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/10 Dr.
+ []
+
+
+Overfull \hbox (25.91672pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Arash
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Ah-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 madi
+ []
+
+
+Overfull \hbox (21.58336pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 (Dis-
+ []
+
+
+Overfull \hbox (15.63889pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ser-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (16.75003pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 sor) 
+ []
+
+
+Overfull \hbox (52.38899pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Department
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Elec-
+ []
+
+
+Overfull \hbox (21.69449pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 tron-
+ []
+
+
+Overfull \hbox (13.94446pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ics,
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Car-
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 leton
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 sity 
+ []
+
+
+Overfull \hbox (19.16669pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Tel.:
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 519-
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 253-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 3000
+ []
+
+
+Overfull \hbox (16.38893pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ext.
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 5403,
+ []
+
+
+Overfull \hbox (28.4723pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Email:
+ []
+
+
+Overfull \hbox (42.30563pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ArashAh-
+ []
+
+
+Overfull \hbox (108.36136pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 madi3@cunet.carleton.ca 
+ []
+
+
+Overfull \hbox (14.33336pt too wide) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/10 Dr.
+ []
+
+
+Overfull \hbox (15.2778pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Mi-
+ []
+
+
+Overfull \hbox (12.80559pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 tra
+ []
+
+
+Overfull \hbox (33.6945pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Mirhas-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 sani
+ []
+
+
+Overfull \hbox (26.58337pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 (Post-
+ []
+
+
+Overfull \hbox (15.27782pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 doc
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Su-
+ []
+
+
+Overfull \hbox (17.5278pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 per-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (16.75003pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 sor) 
+ []
+
+
+Overfull \hbox (41.27785pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Electrical
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.88893pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Com-
+ []
+
+
+Overfull \hbox (23.36116pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 puter
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 En-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (21.69446pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 neer-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (31.38896pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 (ECE),
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (27.50006pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Wind-
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 sor 
+ []
+
+
+Overfull \hbox (19.16669pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Tel.:
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 519-
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 253-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 3000
+ []
+
+
+Overfull \hbox (16.38893pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 ext.
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 2585,
+ []
+
+
+Overfull \hbox (28.4723pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Email:
+ []
+
+
+Overfull \hbox (98.19467pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 mitramir@uwindsor.ca 
+ []
+
+)
+! Emergency stop.
+<*> references.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 481239
+ 443 string characters out of 5920377
+ 239563 words of memory out of 5000000
+ 15388 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,2n,15p,207b,70s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

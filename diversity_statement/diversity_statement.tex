@@ -1,0 +1,58 @@
+\documentclass[12pt]{book}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+%\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+%\usepackage[font=normalsize,labelfont=bf]{caption}
+%\usepackage{booktabs,tabularx}
+%
+%\usepackage{array}
+%\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%\renewcommand\bibfont{\footnotesize}
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\chapter*}{\section*}{}{}
+
+\renewcommand\bibname{ }
+
+\newcommand*\ruleline[1]{\par\noindent\raisebox{.8ex}{\makebox[\linewidth]{\hrulefill\hspace{1ex}\raisebox{-.8ex}{#1}\hspace{1ex}\hrulefill}}}
+
+
+%\usepackage[T1]{fontenc}
+%\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+
+%\usepackage{geometry}
+% \geometry{
+% a4paper,
+% total={170mm,257mm},
+% left=15mm,
+% top=17mm,
+% right=15mm,
+%  bottom=17mm,
+% }
+
+%\newcommand{\fd}{\small \textit}
+%\newcommand{\mtf}{ \fontfamily{put}\selectfont}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+%\newcommand{\ned}{\normalise \mdseries}
+
+\begin{document}
+
+ \input{diversity_text.tex}
+ 
+\end{document}
+
+
+

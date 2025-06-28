@@ -1,0 +1,77 @@
+\documentclass[12pt,oneside]{book}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{etoolbox}
+
+
+
+
+
+\renewcommand\bibname{ }
+\usepackage{mathptmx}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+\fancyhf{}
+%\lhead{Curriculum vitae}
+\cfoot{ \hrule {\small Moslem Heidarpur}{\hfill\small Page \thepage ~of 5}}
+ \usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=15mm,
+ top=17mm,
+ right=15mm,
+  bottom=37mm,
+ }
+\setlength{\headsep}{0.2in} 
+\setlength{\footskip}{0.5in} 
+
+\newcommand{\fd}{\small \textit}
+%\newcommand{\mtf}{ \fontfamily{put}\selectfont}
+\newcommand{\mtf}{ \bf \normalsize}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\usepackage[resetlabels]{multibib}
+\bibliographystyle{ieeetr}
+%\newcites{crypto}{{dff}} 
+
+\patchcmd{\thebibliography}{\chapter*}{\section*}{}{}
+
+\newcites{main,crypto}{{},{}}
+
+
+
+\begin{document}\thispagestyle{empty}
+ \thispagestyle{empty}
+ \lhead{Research statement}
+ \phantom \quad \\
+
+{\bf Research Statement: 
+Designing efficient and high performance SOCs  Embedded system for emerging technologies
+%A Neuromorphic Processor For Biological Neural Neural Networks
+}
+\vspace*{2\baselineskip}\\
+%{\bf Background } 
+Nowadays, embedded systems has became inseparable part of many modern devices. These systems include automobiles, UAVs, smart grids, wireless networks, medical devices, industrial controllers etc. With expanding to Internet Of Things (IOTs), it is expected that every device in the near future includes an embedded system. 
+
+With expansion of usage, embedded systems face new challenges. An example is automotive section where self-driving cars require real-time processing which require very high performance embedded devices. Nevertheless, they require high levels of security, reliability and safety. Embedded systems in these modern cars also has limitation on power usage and usually must acquire various network connectivity protocols. Adding to the already long list, the resources for designing such devices is constrained and in most case, they need to be backward compatible. 
+
+
+Addressing such challenges requires unconventional and novel approaches. In many applications such neural network inference engines and cryptography systems, the fetch and decode processors are incapable of keeping up with increasing demand for computational power, specially with approaching to the end of the Mooore's law. Same scenario also applies to power usage. An example of very power efficient  processing systems is human brain. A system which is intelligent, fast, fault tolerant and yet it uses fraction of the power used by Von Neumann computers. 
+
+These research proposals aim to tackle these problems by developing non Von Neumann architectures. In this research plan, two areas where these new approaches are intended to apply are elaborated. \\
+ \input{sections/research_proposal_1.tex}
+ \input{sections/research_proposal_2.tex}
+ \end{document}

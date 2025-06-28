@@ -1,0 +1,1243 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.7.14)  3 JAN 2024 22:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**skills.tex
+(./skills.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin {itemize}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+! Undefined control sequence.
+l.2     \item [] {\bf
+                      \Large  Technical Skills  }  \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2     \item [] {\bf \Large
+                              Technical Skills  }  \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+l.3     \item []  {\bf
+                       \hrulefill } \mdseries \normalsize
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...[]  {\bf \hrulefill } \mdseries \normalsize
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+! Undefined control sequence.
+l.5             \item [$\bullet$] \bf
+                                      {\mtf \normalsize  HDL} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5             \item [$\bullet$] \bf {\mtf
+                                            \normalsize  HDL} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...    \item [$\bullet$] \bf {\mtf \normalsize
+                                                    HDL} \mdseries
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.38893pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 HDL 
+ []
+
+
+Overfull \hbox (31.44452pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 System
+ []
+
+
+Overfull \hbox (18.36111pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 Ver-
+ []
+
+
+Overfull \hbox (15.5556pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 ilog 
+ []
+
+
+Overfull \hbox (30.58339pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Verilog 
+ []
+
+
+Overfull \hbox (28.88895pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 VHDL 
+ []
+
+! Undefined control sequence.
+l.11               \item [$\bullet$] \bf
+                                         {\mtf \normalsize  Programming} \md...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11               \item [$\bullet$] \bf {\mtf
+                                               \normalsize  Programming} \md...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                    Programming} \mdseries
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (59.63905pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10 Programming 
+ []
+
+
+Overfull \hbox (32.08344pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/n/10 Python 
+ []
+
+
+Overfull \hbox (22.77783pt too wide) in paragraph at lines 14--15
+\OT1/cmr/m/n/10 C++ 
+ []
+
+
+Overfull \hbox (20.44449pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 Bare
+ []
+
+
+Overfull \hbox (25.27783pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 Metal
+ []
+
+
+Overfull \hbox (7.22223pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 C 
+ []
+
+
+Overfull \hbox (19.58339pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 Java 
+ []
+
+
+Overfull \hbox (41.50008pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 Assembly 
+ []
+
+
+Overfull \hbox (24.86118pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 Latex 
+ []
+
+
+Overfull \hbox (25.13896pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10 Linux
+ []
+
+
+Overfull \hbox (21.11116pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10 Shell
+ []
+
+
+Overfull \hbox (29.47227pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10 Script-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/10 ing 
+ []
+
+! Undefined control sequence.
+l.21                \item [$\bullet$] \bf
+                                          {\mtf \normalsize  AI} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21                \item [$\bullet$] \bf {\mtf
+                                                \normalsize  AI} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                    AI} \mdseries
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/10 AI 
+ []
+
+
+Overfull \hbox (29.1945pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/10 Neural
+ []
+
+
+Overfull \hbox (19.16669pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/10 Net-
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/10 work 
+ []
+
+
+Overfull \hbox (22.08336pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Deep
+ []
+
+
+Overfull \hbox (28.50005pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Learn-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 ing 
+ []
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 Spike
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 Time
+ []
+
+
+Overfull \hbox (15.41667pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 De-
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 pen-
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 dent
+ []
+
+
+Overfull \hbox (21.86115pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 Plas-
+ []
+
+
+Overfull \hbox (14.44446pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 tic-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 ity
+ []
+
+
+Overfull \hbox (35.00008pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/10 (STDP) 
+ []
+
+! Undefined control sequence.
+l.27                \item [$\bullet$] \bf
+                                          {\mtf \normalsize  CPUs and microc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27                \item [$\bullet$] \bf {\mtf
+                                                \normalsize  CPUs and microc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                    CPUs and microcontroller...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (25.47226pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 CPUs
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 mi-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 cro-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (30.66672pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 trollers 
+ []
+
+! Undefined control sequence.
+l.29                             \itme
+                                       [-] Cortex M55
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30                             \itme
+                                       [-] Cortex A53
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31                             \itme
+                                       [-] Cortex M0
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32                             \item [-]
+                                           Zilog Z80
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32                             \item [-]
+                                           Zilog Z80
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32                             \item [-]
+                                           Zilog Z80
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33                             \item [-]
+                                           Arduino
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33                             \item [-]
+                                           Arduino
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33                             \item [-]
+                                           Arduino
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34                             \item [-]
+                                           Raspberry Pi.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34                             \item [-]
+                                           Raspberry Pi.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34                             \item [-]
+                                           Raspberry Pi.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35                             \item [-]
+                                           8051 Microcontroller
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35                             \item [-]
+                                           8051 Microcontroller
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35                             \item [-]
+                                           8051 Microcontroller
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36                             \item [-]
+                                           AXI Interconnect
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36                             \item [-]
+                                           AXI Interconnect
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36                             \item [-]
+                                           AXI Interconnect
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37                     \end {itemize}
+                                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 29--37
+[]\OT1/cmr/m/n/10 [-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 ]
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Cor-
+ []
+
+
+Overfull \hbox (13.61115pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 tex
+ []
+
+
+Overfull \hbox (19.16672pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 M55
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 [-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 ]
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Cor-
+ []
+
+
+Overfull \hbox (13.61115pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 tex
+ []
+
+
+Overfull \hbox (17.50005pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 A53
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 [-
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 ]
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Cor-
+ []
+
+
+Overfull \hbox (13.61115pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 tex
+ []
+
+
+Overfull \hbox (35.83342pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 M0Zilog
+ []
+
+
+Overfull \hbox (16.11115pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Z80
+ []
+
+
+Overfull \hbox (35.8612pt too wide) in paragraph at lines 29--37
+[]\OT1/cmr/m/n/10 Arduino
+ []
+
+
+Overfull \hbox (45.25009pt too wide) in paragraph at lines 29--37
+[]\OT1/cmr/m/n/10 Raspberry
+ []
+
+
+Overfull \hbox (12.36115pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Pi.
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 29--37
+[]\OT1/cmr/m/n/10 8051
+ []
+
+
+Overfull \hbox (15.2778pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 Mi-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 cro-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (26.72227pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 troller
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 29--37
+[]\OT1/cmr/m/n/10 AXI
+ []
+
+
+Overfull \hbox (12.50002pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 In-
+ []
+
+
+Overfull \hbox (15.58334pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 29--37
+\OT1/cmr/m/n/10 nect 
+ []
+
+! Undefined control sequence.
+l.38                \item [$\bullet$] \bf
+                                          {\mtf \normalsize  Optimization} \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38                \item [$\bullet$] \bf {\mtf
+                                                \normalsize  Optimization} \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                    Optimization} \mdseries
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (57.77794pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Optimization 
+ []
+
+
+Overfull \hbox (26.11118pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Single
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.05562pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 multi
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 ob-
+ []
+
+
+Overfull \hbox (15.27779pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 jec-
+ []
+
+
+Overfull \hbox (16.11115pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 tive
+ []
+
+
+Overfull \hbox (18.7778pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Par-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.66667pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 cle
+ []
+
+
+Overfull \hbox (29.75006pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Swarm
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 Op-
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (23.88893pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 miza-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (27.91675pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 (PSO) 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41                             \item [-]
+                                           Genetic Algorithm
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (33.40282pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Genetic
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 go-
+ []
+
+
+Overfull \hbox (24.47229pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 rithm 
+ []
+
+! Undefined control sequence.
+l.43                \item [$\bullet$] \bf
+                                          {\mtf \normalsize  Software and To...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43                \item [$\bullet$] \bf {\mtf
+                                                \normalsize  Software and To...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                    Software and Tools} \mds...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (37.52785pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 Software
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.38893pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 Tools 
+ []
+
+
+Overfull \hbox (40.11122pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 Synopsys
+ []
+
+
+Overfull \hbox (20.00003pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 VCS 
+ []
+
+
+Overfull \hbox (40.11122pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 Synopsys
+ []
+
+
+Overfull \hbox (18.19449pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 Lint 
+ []
+
+
+Overfull \hbox (40.11122pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 Synopsys
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 Spy-
+ []
+
+
+Overfull \hbox (23.51392pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 Glass 
+ []
+
+
+Overfull \hbox (35.05562pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 Siemens
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 Pow-
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 er-
+ []
+
+
+Overfull \hbox (15.72226pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 Pro 
+ []
+
+
+Overfull \hbox (35.05562pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 Siemens
+ []
+
+
+Overfull \hbox (30.61118pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 Questa 
+ []
+
+
+Overfull \hbox (36.66672pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 Cadence
+ []
+
+
+Overfull \hbox (27.06947pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 Genus
+ []
+
+
+Overfull \hbox (19.72227pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 Syn-
+ []
+
+
+Overfull \hbox (17.22224pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 the-
+ []
+
+
+Overfull \hbox (10.66667pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 sis 
+ []
+
+
+Overfull \hbox (39.80562pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Verplex's
+ []
+
+
+Overfull \hbox (27.63895pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Black-
+ []
+
+
+Overfull \hbox (14.44446pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Tie 
+ []
+
+
+Overfull \hbox (26.66675pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/10 Xilinx
+ []
+
+
+Overfull \hbox (15.97226pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/10 ISE 
+ []
+
+
+Overfull \hbox (26.66675pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Xilinx
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Vi-
+ []
+
+
+Overfull \hbox (20.27785pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 vado 
+ []
+
+
+Overfull \hbox (35.63898pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 Quartus
+ []
+
+
+Overfull \hbox (25.02783pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 prime 
+ []
+
+
+Overfull \hbox (42.27788pt too wide) in paragraph at lines 55--56
+\OT1/cmr/m/n/10 Modelsim 
+ []
+
+
+Overfull \hbox (31.38898pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 Matlab 
+ []
+
+
+Overfull \hbox (28.6667pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 Hspice 
+ []
+
+
+Overfull \hbox (31.66673pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 Agilent
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (29.72229pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 vanced
+ []
+
+
+Overfull \hbox (15.41667pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 De-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 sign
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 Sys-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 tem 
+ []
+
+
+Overfull \hbox (41.19453pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 Microsoft
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 Vi-
+ []
+
+
+Overfull \hbox (17.27782pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 sual
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 Stu-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 dio 
+ []
+
+
+Overfull \hbox (30.75005pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/10 Eclipse 
+ []
+
+
+Overfull \hbox (35.8612pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 Android
+ []
+
+
+Overfull \hbox (18.33337pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 Stu-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 dio 
+ []
+
+
+Overfull \hbox (50.19455pt too wide) in paragraph at lines 62--63
+\OT1/cmr/m/n/10 DesignSync 
+ []
+
+
+Overfull \hbox (14.51392pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 Git 
+ []
+
+
+Overfull \hbox (16.83337pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 Jira 
+ []
+
+)
+! Emergency stop.
+<*> skills.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 28 strings out of 483065
+ 501 string characters out of 5963550
+ 236997 words of memory out of 5000000
+ 15159 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 22i,4n,16p,176b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
