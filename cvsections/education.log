@@ -1,0 +1,2827 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.20)  28 JUN 2025 20:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**education.tex
+(./education.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin {itemize}
+                     \item [] {\bf \Large  Education }  \vspace{-1.5em}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+! Undefined control sequence.
+l.1 \begin {itemize} \item [] {\bf
+                                   \Large  Education }  \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 \begin {itemize} \item [] {\bf \Large
+                                           Education }  \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.2 \item []  {\bf
+                   \hrulefill }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \mdseries \normalsize
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+! Undefined control sequence.
+l.5 \item [$\bullet$] \bf
+                          {\mtf \normalsize PhD in Electrical Engineering} \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5 \item [$\bullet$] \bf {\mtf
+                                \normalsize PhD in Electrical Engineering} \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \item [$\bullet$] \bf {\mtf \normalsize
+                                            PhD in Electrical Engineering} \...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.00005pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 PhD
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 Elec-
+ []
+
+
+Overfull \hbox (13.91669pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 tri-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 cal
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 En-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (21.69446pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 neer-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/n/10 ing 
+ []
+
+! Undefined control sequence.
+l.8           \small
+                     University of Windsor, ON, Canada.\small \hspace{3.8cm}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 ...ll University of Windsor, ON, Canada.\small
+                                                   \hspace{3.8cm}\textit{202...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...mall \hspace{3.8cm}\textit{2020}\normalsize
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (47.58344pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 University:
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (27.50006pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 Wind-
+ []
+
+
+Overfull \hbox (15.63892pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 sor,
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 ON,
+ []
+
+
+Overfull \hbox (36.1112pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/n/10 Canada.
+ []
+
+
+Overfull \hbox (21.7999pt too wide) in paragraph at lines 7--9
+\OT1/cmr/m/it/10 2020 
+ []
+
+
+Overfull \hbox (52.77788pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Dissertation
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Ti-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 tle:
+ []
+
+
+Overfull \hbox (18.75003pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Dig-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 tal
+ []
+
+
+Overfull \hbox (15.2778pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Im-
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 ple-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Mod-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 tion:
+ []
+
+
+Overfull \hbox (22.50006pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Spik-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (20.83336pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Neu-
+ []
+
+
+Overfull \hbox (11.69447pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 ral
+ []
+
+
+Overfull \hbox (19.16669pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 Net-
+ []
+
+
+Overfull \hbox (21.13893pt too wide) in paragraph at lines 9--11
+\OT1/cmr/m/n/10 work 
+ []
+
+
+Overfull \hbox (52.77788pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Dissertation
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (19.58336pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 sors:
+ []
+
+
+Overfull \hbox (17.50003pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Ma-
+ []
+
+
+Overfull \hbox (11.38893pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 jid
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Ah-
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 madi,
+ []
+
+
+Overfull \hbox (17.69446pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Dis-
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 tin-
+ []
+
+
+Overfull \hbox (32.8334pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 guished
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 fes-
+ []
+
+
+Overfull \hbox (15.63892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 sor,
+ []
+
+
+Overfull \hbox (25.91672pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Arash
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Ah-
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 madi,
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 As-
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 sis-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 tant
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 fes-
+ []
+
+
+Overfull \hbox (15.63892pt too wide) in paragraph at lines 11--14
+\OT1/cmr/m/n/10 sor. 
+ []
+
+! Undefined control sequence.
+l.15 \item [$\bullet$]  \bf
+                            {\mtf \normalsize  M.Sc. in Electrical Engineeri...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 \item [$\bullet$]  \bf {\mtf
+                                  \normalsize  M.Sc. in Electrical Engineeri...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \item [$\bullet$]  \bf {\mtf \normalsize
+                                               M.Sc. in Electrical Engineeri...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.72227pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 M.Sc.
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 Elec-
+ []
+
+
+Overfull \hbox (13.91669pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 tri-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 cal
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 En-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (21.69446pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 neer-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 ing 
+ []
+
+! Undefined control sequence.
+l.18 ...ity of Kermanshah, Kermanshah, Iran.\small
+                                                   \hspace{0.85cm}\textit{20...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ll \hspace{0.85cm}\textit{2014}\normalsize
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (47.58344pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 University:
+ []
+
+
+Overfull \hbox (19.58336pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Razi
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Ker-
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 shah,
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Ker-
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 shah,
+ []
+
+
+Overfull \hbox (20.86116pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Iran.
+ []
+
+
+Overfull \hbox (21.7999pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 2014 
+ []
+
+
+Overfull \hbox (52.77788pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 Dissertation
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 Ti-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 tle:
+ []
+
+
+Overfull \hbox (18.75003pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 Dig-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 tal
+ []
+
+
+Overfull \hbox (15.2778pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 Im-
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 ple-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (15.61111pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 cise
+ []
+
+
+Overfull \hbox (26.38896pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 model
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 as-
+ []
+
+
+Overfull \hbox (16.13892pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 tro-
+ []
+
+
+Overfull \hbox (18.05559pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 cyte
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 cal-
+ []
+
+
+Overfull \hbox (21.11116pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 cium
+ []
+
+
+Overfull \hbox (12.27779pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 os-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 cil-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 la-
+ []
+
+
+Overfull \hbox (23.9445pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/10 tions. 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21         \item [-]
+                        {   Dissertation Advisors:}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (52.77788pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 Dissertation
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (19.58336pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 sors:
+ []
+
+
+Overfull \hbox (25.91672pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 Arash
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 Ah-
+ []
+
+
+Overfull \hbox (24.44452pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 madi,
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 As-
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 sis-
+ []
+
+
+Overfull \hbox (18.0556pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 tant
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 fes-
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 sor 
+ []
+
+! Undefined control sequence.
+l.24 \item [$\bullet$] \bf
+                           {\mtf  \normalsize B.Sc. in Electrical Engineerin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 \item [$\bullet$] \bf {\mtf
+                                  \normalsize B.Sc. in Electrical Engineerin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \item [$\bullet$] \bf {\mtf  \normalsize
+                                              B.Sc. in Electrical Engineerin...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (22.63895pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 B.Sc.
+ []
+
+
+Overfull \hbox (8.33336pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (21.80557pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 Elec-
+ []
+
+
+Overfull \hbox (13.91669pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 tri-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 cal
+ []
+
+
+Overfull \hbox (15.69447pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 En-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 gi-
+ []
+
+
+Overfull \hbox (21.69446pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 neer-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/10 ing 
+ []
+
+! Undefined control sequence.
+l.26     \item [-] {University:} {\small
+                                         Razi University of Kermanshah, Kerm...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 ...ity of Kermanshah, Kermanshah, Iran}\small
+                                                    \hspace{1.6cm} \textit{2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...l  \hspace{1.6cm} \textit{2009}\normalsize
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (47.58344pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 University:
+ []
+
+
+Overfull \hbox (19.58336pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Razi
+ []
+
+
+Overfull \hbox (19.1667pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Uni-
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (15.61115pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 sity
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Ker-
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 shah,
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Ker-
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (22.83339pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 shah,
+ []
+
+
+Overfull \hbox (18.08337pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 Iran
+ []
+
+
+Overfull \hbox (21.7999pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/it/10 2009 
+ []
+
+
+Overfull \hbox (32.11116pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Project
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Ti-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 tle:
+ []
+
+
+Overfull \hbox (18.75003pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Dig-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 tal
+ []
+
+
+Overfull \hbox (15.2778pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Im-
+ []
+
+
+Overfull \hbox (16.11113pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 ple-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (14.0278pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 PC
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Os-
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 cil-
+ []
+
+
+Overfull \hbox (11.11113pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 lo-
+ []
+
+
+Overfull \hbox (23.6667pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 scope 
+ []
+
+
+Overfull \hbox (32.11116pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 Project
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 Ad-
+ []
+
+
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 vi-
+ []
+
+
+Overfull \hbox (19.58336pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 sors:
+ []
+
+
+Overfull \hbox (33.66673pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 Mohsen
+ []
+
+
+Overfull \hbox (20.83337pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 Hay-
+ []
+
+
+Overfull \hbox (14.44449pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 ati,
+ []
+
+
+Overfull \hbox (19.05559pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 fes-
+ []
+
+
+Overfull \hbox (12.86113pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 sor 
+ []
+
+! Undefined control sequence.
+l.33 \item [] {\bf
+                   \Large  Industry Training and Courses }   \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 \item [] {\bf \Large
+                           Industry Training and Courses }   \vspace{-1.5em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (37.30565pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 Industry
+ []
+
+
+Overfull \hbox (26.97226pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 Train-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (34.02782pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/10 Courses
+ []
+
+! Undefined control sequence.
+l.34 \item []  {\bf
+                    \hrulefill }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36     \item [$\bullet$] \bf
+                               {\mtf \normalsize Functional Safety} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36     \item [$\bullet$] \bf {\mtf
+                                     \normalsize Functional Safety} \mdseries
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     \item [$\bullet$] \bf {\mtf \normalsize
+                                                 Functional Safety} \mdseries
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (46.25012pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 Functional
+ []
+
+
+Overfull \hbox (26.94452pt too wide) in paragraph at lines 36--37
+\OT1/cmr/m/n/10 Safety 
+ []
+
+
+Overfull \hbox (54.75014pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Introduction
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 func-
+ []
+
+
+Overfull \hbox (25.00008pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 tional
+ []
+
+
+Overfull \hbox (27.27783pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 safety,
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 why
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 it
+ []
+
+
+Overfull \hbox (6.72223pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 is
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (30.30562pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 quired,
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (10.61113pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 its
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 im-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 pli-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (21.16672pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 tions 
+ []
+
+
+Overfull \hbox (35.27785pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 Meeting
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (25.30559pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 quire-
+ []
+
+
+Overfull \hbox (25.88893pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 ments
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (41.94456pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 ISO26262
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (17.63892pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 IEC
+ []
+
+
+Overfull \hbox (25.00008pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 61508 
+ []
+
+! Undefined control sequence.
+l.41     \item [$\bullet$] \bf
+                               {\mtf \normalsize Design Excellence and Quali...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41     \item [$\bullet$] \bf {\mtf
+                                     \normalsize Design Excellence and Quali...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41     \item [$\bullet$] \bf {\mtf \normalsize
+                                                 Design Excellence and Quali...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (29.36116pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Design
+ []
+
+
+Overfull \hbox (15.4167pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Ex-
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 cel-
+ []
+
+
+Overfull \hbox (21.66669pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 lence
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (24.4445pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Qual-
+ []
+
+
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 ity
+ []
+
+
+Overfull \hbox (23.0556pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 Sys-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 tem
+ []
+
+
+Overfull \hbox (30.27786pt too wide) in paragraph at lines 41--42
+\OT1/cmr/m/n/10 (QMS) 
+ []
+
+
+Overfull \hbox (58.19458pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 Documenting
+ []
+
+
+Overfull \hbox (19.72227pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 poli-
+ []
+
+
+Overfull \hbox (18.3889pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 cies,
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 ce-
+ []
+
+
+Overfull \hbox (23.4167pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 dures
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (19.52782pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 trols
+ []
+
+
+Overfull \hbox (17.77779pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 nec-
+ []
+
+
+Overfull \hbox (11.72221pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 es-
+ []
+
+
+Overfull \hbox (18.13893pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 sary
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 cre-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 ate
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 high-
+ []
+
+
+Overfull \hbox (30.27786pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 quality
+ []
+
+
+Overfull \hbox (23.63895pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 prod-
+ []
+
+
+Overfull \hbox (17.83336pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 ucts 
+ []
+
+
+Overfull \hbox (35.27785pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 Meeting
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (25.30559pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 quire-
+ []
+
+
+Overfull \hbox (25.88893pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 ments
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (16.94449pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 ISO
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 9001
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (24.02782pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 IATF
+ []
+
+
+Overfull \hbox (25.00008pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 16946 
+ []
+
+! Undefined control sequence.
+l.46        \item [$\bullet$] \bf
+                                  {\mtf \normalsize Root Cause Analysis (RCA...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46        \item [$\bullet$] \bf {\mtf
+                                        \normalsize Root Cause Analysis (RCA...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                   Root Cause Analysis (RCA)...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.52783pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 Root
+ []
+
+
+Overfull \hbox (26.1667pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 Cause
+ []
+
+
+Overfull \hbox (24.16672pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 Anal-
+ []
+
+
+Overfull \hbox (8.61113pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 y-
+ []
+
+
+Overfull \hbox (10.66667pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 sis
+ []
+
+
+Overfull \hbox (29.58337pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 (RCA) 
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 8-
+ []
+
+
+Overfull \hbox (7.6389pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 D
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 (8-
+ []
+
+
+Overfull \hbox (46.58342pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 Discipline)
+ []
+
+
+Overfull \hbox (23.36116pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 prob-
+ []
+
+
+Overfull \hbox (15.55559pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 lem
+ []
+
+
+Overfull \hbox (20.33337pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 solv-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.77777pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 cess 
+ []
+
+
+Overfull \hbox (15.27783pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 3x5
+ []
+
+
+Overfull \hbox (17.77782pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 why
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 anal-
+ []
+
+
+Overfull \hbox (8.61113pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 y-
+ []
+
+
+Overfull \hbox (10.66667pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 sis
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (19.47224pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 Cor-
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 rec-
+ []
+
+
+Overfull \hbox (16.11115pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 tive
+ []
+
+
+Overfull \hbox (15.27779pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 Ac-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (22.50005pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 (CA) 
+ []
+
+! Undefined control sequence.
+l.51        \item [$\bullet$] \bf
+                                  {\mtf \normalsize Cross Domain Clocking (C...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.51        \item [$\bullet$] \bf {\mtf
+                                        \normalsize Cross Domain Clocking (C...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                   Cross Domain Clocking (CD...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.0278pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Cross
+ []
+
+
+Overfull \hbox (15.97224pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Do-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 main
+ []
+
+
+Overfull \hbox (28.0556pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Clock-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (29.86116pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 (CDC) 
+ []
+
+
+Overfull \hbox (42.02786pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Historical
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (17.8889pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 sues
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (21.66672pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 lated
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (22.08336pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 CDC
+ []
+
+
+Overfull \hbox (18.38892pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 mis-
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 han-
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 dling
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 lead-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 ing
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (24.16672pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Mean
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Time
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 tween
+ []
+
+
+Overfull \hbox (19.58337pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 Fail-
+ []
+
+
+Overfull \hbox (17.86113pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 ures
+ []
+
+
+Overfull \hbox (37.77788pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 (MTBF) 
+ []
+
+
+Overfull \hbox (19.36115pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 Best
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 ap-
+ []
+
+
+Overfull \hbox (37.58339pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 proaches
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (23.11116pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 asyn-
+ []
+
+
+Overfull \hbox (38.69452pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 chronous
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 com-
+ []
+
+
+Overfull \hbox (16.94447pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 mu-
+ []
+
+
+Overfull \hbox (11.66669pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 ni-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 tween
+ []
+
+
+Overfull \hbox (22.50006pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 mod-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 u-
+ []
+
+
+Overfull \hbox (12.2778pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 lus
+ []
+
+
+Overfull \hbox (18.36115pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 run-
+ []
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 ning
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 on
+ []
+
+
+Overfull \hbox (14.72226pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 dif-
+ []
+
+
+Overfull \hbox (14.75002pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 fer-
+ []
+
+
+Overfull \hbox (13.61113pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 ent
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 clock
+ []
+
+
+Overfull \hbox (14.75002pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 fre-
+ []
+
+
+Overfull \hbox (24.1667pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 quen-
+ []
+
+
+Overfull \hbox (15.61111pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10 cies 
+ []
+
+! Undefined control sequence.
+l.56        \item [$\bullet$] \bf
+                                  {\mtf \normalsize Right Review Training  }...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56        \item [$\bullet$] \bf {\mtf
+                                        \normalsize Right Review Training  }...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                   Right Review Training  } ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.3056pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 Right
+ []
+
+
+Overfull \hbox (15.13889pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 Re-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 view
+ []
+
+
+Overfull \hbox (26.97226pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 Train-
+ []
+
+
+Overfull \hbox (13.33337pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10 ing 
+ []
+
+
+Overfull \hbox (24.3056pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 Right
+ []
+
+
+Overfull \hbox (15.13889pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 Re-
+ []
+
+
+Overfull \hbox (23.6667pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 views
+ []
+
+
+Overfull \hbox (19.02779pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 (Re-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 view
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (22.50005pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 code,
+ []
+
+
+Overfull \hbox (18.61115pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 doc-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 u-
+ []
+
+
+Overfull \hbox (21.6667pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (12.22224pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 tion,
+ []
+
+
+Overfull \hbox (22.00002pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 spec-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (8.8889pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 fi-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 ca-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 etc.
+ []
+
+
+Overfull \hbox (3.8889pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 )
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (21.97224pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 char-
+ []
+
+
+Overfull \hbox (12.77779pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 ac-
+ []
+
+
+Overfull \hbox (15.58334pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 58--59
+\OT1/cmr/m/n/10 tics 
+ []
+
+
+Overfull \hbox (23.5278pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 Roles
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (15.13889pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 Re-
+ []
+
+
+Overfull \hbox (23.66672pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 spon-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 si-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 bil-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 ties
+ []
+
+
+Overfull \hbox (16.13889pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 rec-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 om-
+ []
+
+
+Overfull \hbox (33.88896pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 mended
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (18.33336pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (19.44449pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 duct
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (19.72226pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 view
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (15.83337pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 val-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 da-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 tion
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.77777pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/10 cess 
+ []
+
+! Undefined control sequence.
+l.61        \item [$\bullet$] \bf
+                                  {\mtf \normalsize Practical development of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.61        \item [$\bullet$] \bf {\mtf
+                                        \normalsize Practical development of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                   Practical development of ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (39.05563pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 Practical
+ []
+
+
+Overfull \hbox (13.33334pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 de-
+ []
+
+
+Overfull \hbox (15.55557pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 vel-
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 op-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (8.05559pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 of
+ []
+
+
+Overfull \hbox (15.9167pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 risk
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (11.97226pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 for
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.77777pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 cess 
+ []
+
+
+Overfull \hbox (54.75014pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 Introduction
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 to
+ []
+
+
+Overfull \hbox (15.9167pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 risk
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (24.72227pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 ment,
+ []
+
+
+Overfull \hbox (17.80559pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (16.77777pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 cess
+ []
+
+
+Overfull \hbox (24.55559pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 steps,
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (20.08336pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 roles
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (23.66672pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 spon-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 si-
+ []
+
+
+Overfull \hbox (14.44447pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 bil-
+ []
+
+
+Overfull \hbox (6.11111pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 i-
+ []
+
+
+Overfull \hbox (15.05557pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 ties 
+ []
+
+
+Overfull \hbox (32.77785pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 Change
+ []
+
+
+Overfull \hbox (22.22227pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (16.50002pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 sys-
+ []
+
+
+Overfull \hbox (16.6667pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 tem
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (15.9167pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 risk
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 reg-
+ []
+
+
+Overfull \hbox (10.05556pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 ter 
+ []
+
+! Undefined control sequence.
+l.66             \item [$\bullet$] \bf
+                                       {\mtf \normalsize Business Creation a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.66             \item [$\bullet$] \bf {\mtf
+                                             \normalsize Business Creation a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...   \item [$\bullet$] \bf {\mtf \normalsize
+                                                   Business Creation and Man...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (37.25006pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 Business
+ []
+
+
+Overfull \hbox (18.91667pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 Cre-
+ []
+
+
+Overfull \hbox (22.22229pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 ation
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (23.0556pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 Man-
+ []
+
+
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 age-
+ []
+
+
+Overfull \hbox (21.94449pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 ment
+ []
+
+
+Overfull \hbox (36.25009pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 (BCaM) 
+ []
+
+
+Overfull \hbox (22.77782pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 R$&$D
+ []
+
+
+Overfull \hbox (19.72227pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 poli-
+ []
+
+
+Overfull \hbox (15.61111pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 cies
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 at
+ []
+
+
+Overfull \hbox (13.88892pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 the
+ []
+
+
+Overfull \hbox (16.69446pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 cor-
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 po-
+ []
+
+
+Overfull \hbox (12.25002pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (17.22227pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 tion 
+ []
+
+
+Overfull \hbox (29.36116pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 Design
+ []
+
+
+Overfull \hbox (19.58337pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 Fail-
+ []
+
+
+Overfull \hbox (13.91669pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 ure
+ []
+
+
+Overfull \hbox (28.38895pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 Modes
+ []
+
+
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 and
+ []
+
+
+Overfull \hbox (13.19447pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 Ef-
+ []
+
+
+Overfull \hbox (19.7778pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 fects
+ []
+
+
+Overfull \hbox (24.16672pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 Anal-
+ []
+
+
+Overfull \hbox (8.61113pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 y-
+ []
+
+
+Overfull \hbox (10.66667pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 sis
+ []
+
+
+Overfull \hbox (45.41678pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 (DFMEA) 
+ []
+
+)
+! Emergency stop.
+<*> education.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 32 strings out of 474222
+ 596 string characters out of 5748733
+ 1935975 words of memory out of 5000000
+ 22383 multiletter control sequences out of 15000+600000
+ 558415 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,5n,25p,180b,276s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
